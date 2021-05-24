@@ -1,4 +1,4 @@
-# AirPods coonector
+# AirPods connector
 
 This module enables your MacBook to connet your AirPods forcibly regardless other connected iPhone.
 
