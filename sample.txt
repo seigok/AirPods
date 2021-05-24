@@ -1,0 +1,2 @@
+AP_ADDRESS=ff-ff-ff-ff-ff-ff # Your Airpods MAC address from bluetoothconnector
+AP_NAME="AirPods Name" # Your AirPods name from switchaudio-osx
